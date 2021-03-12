@@ -1,6 +1,6 @@
 {
-  "name": "scoped-rbac",
-  "version": "0.0.2",
+  "name": "@openteamsinc/scoped-rbac",
+  "version": "0.0.3",
   "description": "A scoped RBAC policy engine for use with django-scoped-rbac or any other scoped RBAC implementation.",
   "main": "lib/src/scoped-rbac.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openteamsinc/js-scoped-rbac.git"
+    "url": "https://gitlab.com/openteams/js-scoped-rbac/-/tree/update-npm-scope"
   },
   "devDependencies": {
     "@ava/typescript": "^1.1.1",
